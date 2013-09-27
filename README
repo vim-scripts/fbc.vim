@@ -1,21 +1,8 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2691
 
-Vim compiler file
-SCRIPT FILE NAME:
-   fbc.vim
+fbc.vim
+Vim compiler plugin for FreeBASIC.
 
-COMPILER:
-   FBC(FreeBASIC compiler)
-   http://www.freebasic.net/
+Compiles the buffer with FreeBASIC, and shows the compilation results in quickfix window.
 
-AUTHOR:
-   Caglar Toklu caglartoklu[aat]gmail.com
-   http://caglartoklu.blogspot.com/
-
-HISTORY:
-0.0.4, 2009-06-26
-- Added one more error format for the warnings.
-0.0.1, 2009-05-17
-- First, unreleased version.
-
-If you want a syntax file for the FreeBASIC 0.21, see the syntax file at http://cubaxd.net/?en&p=syntaxfile
+Home page: https://github.com/caglartoklu/fbc.vim
